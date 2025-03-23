@@ -1,202 +1,202 @@
 [
   {
     "id": 1,
-    "nombre": "Sombras del Pasado",
-    "descripcion": "Un detective debe enfrentar sus propios demonios mientras resuelve un caso de asesinato en su ciudad natal.",
-    "imagen": "https://example.com/sombras_del_pasado.jpg",
+    "name": "Sombras del Pasado",
+    "description": "Un detective debe enfrentar sus propios demonios mientras resuelve un caso de asesinato en su ciudad natal.",
+    "image": "https://example.com/sombras_del_pasado.jpg",
     "rate": 8.2,
-    "año_estreno": 2023
+    "year": 2023
   },
   {
     "id": 2,
-    "nombre": "El Último Horizonte",
-    "descripcion": "Un grupo de astronautas descubre un planeta habitable, pero no están solos.",
-    "imagen": "https://example.com/el_ultimo_horizonte.jpg",
+    "name": "El Último Horizonte",
+    "description": "Un grupo de astronautas descubre un planeta habitable, pero no están solos.",
+    "image": "https://example.com/el_ultimo_horizonte.jpg",
     "rate": 7.9,
-    "año_estreno": 2024
+    "year": 2024
   },
   {
     "id": 3,
-    "nombre": "Código Omega",
-    "descripcion": "Un hacker descubre un código que puede alterar la realidad y debe decidir si usarlo o destruirlo.",
-    "imagen": "https://example.com/codigo_omega.jpg",
+    "name": "Código Omega",
+    "description": "Un hacker descubre un código que puede alterar la realidad y debe decidir si usarlo o destruirlo.",
+    "image": "https://example.com/codigo_omega.jpg",
     "rate": 8.5,
-    "año_estreno": 2022
+    "year": 2022
   },
   {
     "id": 4,
-    "nombre": "Bajo la Tormenta",
-    "descripcion": "Una periodista investiga una serie de desapariciones en un pequeño pueblo azotado por tormentas.",
-    "imagen": "https://example.com/bajo_la_tormenta.jpg",
+    "name": "Bajo la Tormenta",
+    "description": "Una periodista investiga una serie de desapariciones en un pequeño pueblo azotado por tormentas.",
+    "image": "https://example.com/bajo_la_tormenta.jpg",
     "rate": 7.5,
-    "año_estreno": 2021
+    "year": 2021
   },
   {
     "id": 5,
-    "nombre": "Legado de Sangre",
-    "descripcion": "Un clan de asesinos se enfrenta a su pasado cuando un enemigo olvidado regresa para vengarse.",
-    "imagen": "https://example.com/legado_de_sangre.jpg",
+    "name": "Legado de Sangre",
+    "description": "Un clan de asesinos se enfrenta a su pasado cuando un enemigo olvidado regresa para vengarse.",
+    "image": "https://example.com/legado_de_sangre.jpg",
     "rate": 8.0,
-    "año_estreno": 2020
+    "year": 2020
   },
   {
     "id": 6,
-    "nombre": "El Susurro del Bosque",
-    "descripcion": "Un grupo de amigos decide acampar en un bosque maldito sin saber que despertarán un antiguo espíritu vengativo.",
-    "imagen": "https://example.com/el_susurro_del_bosque.jpg",
+    "name": "El Susurro del Bosque",
+    "description": "Un grupo de amigos decide acampar en un bosque maldito sin saber que despertarán un antiguo espíritu vengativo.",
+    "image": "https://example.com/el_susurro_del_bosque.jpg",
     "rate": 7.2,
-    "año_estreno": 2019
+    "year": 2019
   },
   {
     "id": 7,
-    "nombre": "Horizonte Roto",
-    "descripcion": "En un mundo postapocalíptico, una madre lucha por encontrar un refugio seguro para su hijo.",
-    "imagen": "https://example.com/horizonte_roto.jpg",
+    "name": "Horizonte Roto",
+    "description": "En un mundo postapocalíptico, una madre lucha por encontrar un refugio seguro para su hijo.",
+    "image": "https://example.com/horizonte_roto.jpg",
     "rate": 8.4,
-    "año_estreno": 2018
+    "year": 2018
   },
   {
     "id": 8,
-    "nombre": "Ecos del Pasado",
-    "descripcion": "Un arqueólogo descubre un artefacto que le permite revivir recuerdos olvidados de su vida pasada.",
-    "imagen": "https://example.com/ecos_del_pasado.jpg",
+    "name": "Ecos del Pasado",
+    "description": "Un arqueólogo descubre un artefacto que le permite revivir recuerdos olvidados de su vida pasada.",
+    "image": "https://example.com/ecos_del_pasado.jpg",
     "rate": 7.6,
-    "año_estreno": 2021
+    "year": 2021
   },
   {
     "id": 9,
-    "nombre": "Caza Nocturna",
-    "descripcion": "Un asesino en serie deja pistas en forma de acertijos mientras juega con la policía en una ciudad sumida en el miedo.",
-    "imagen": "https://example.com/caza_nocturna.jpg",
+    "name": "Caza Nocturna",
+    "description": "Un asesino en serie deja pistas en forma de acertijos mientras juega con la policía en una ciudad sumida en el miedo.",
+    "image": "https://example.com/caza_nocturna.jpg",
     "rate": 8.1,
-    "año_estreno": 2017
+    "year": 2017
   },
   {
     "id": 10,
-    "nombre": "Infierno Helado",
-    "descripcion": "Una misión de rescate en la Antártida se convierte en una lucha por la supervivencia contra una criatura desconocida.",
-    "imagen": "https://example.com/infierno_helado.jpg",
+    "name": "Infierno Helado",
+    "description": "Una misión de rescate en la Antártida se convierte en una lucha por la supervivencia contra una criatura desconocida.",
+    "image": "https://example.com/infierno_helado.jpg",
     "rate": 7.8,
-    "año_estreno": 2016
+    "year": 2016
   },
   {
     "id": 11,
-    "nombre": "Mentes Conectadas",
-    "descripcion": "Dos desconocidos descubren que pueden comunicarse telepáticamente, pero cada pensamiento compartido los acerca más al peligro.",
-    "imagen": "https://example.com/mentes_conectadas.jpg",
+    "name": "Mentes Conectadas",
+    "description": "Dos desconocidos descubren que pueden comunicarse telepáticamente, pero cada pensamiento compartido los acerca más al peligro.",
+    "image": "https://example.com/mentes_conectadas.jpg",
     "rate": 8.3,
-    "año_estreno": 2020
+    "year": 2020
   },
   {
     "id": 12,
-    "nombre": "El Último Testigo",
-    "descripcion": "Un hombre que sobrevive a un ataque brutal se convierte en la pieza clave para descubrir una conspiración gubernamental.",
-    "imagen": "https://example.com/el_ultimo_testigo.jpg",
+    "name": "El Último Testigo",
+    "description": "Un hombre que sobrevive a un ataque brutal se convierte en la pieza clave para descubrir una conspiración gubernamental.",
+    "image": "https://example.com/el_ultimo_testigo.jpg",
     "rate": 7.4,
-    "año_estreno": 2015
+    "year": 2015
   },
   {
     "id": 13,
-    "nombre": "Fragmentos de Realidad",
-    "descripcion": "Después de un accidente, una mujer comienza a experimentar realidades alternas sin poder controlar cuál es la verdadera.",
-    "imagen": "https://example.com/fragmentos_de_realidad.jpg",
+    "name": "Fragmentos de Realidad",
+    "description": "Después de un accidente, una mujer comienza a experimentar realidades alternas sin poder controlar cuál es la verdadera.",
+    "image": "https://example.com/fragmentos_de_realidad.jpg",
     "rate": 8.0,
-    "año_estreno": 2023
+    "year": 2023
   },
   {
     "id": 14,
-    "nombre": "Amanecer Carmesí",
-    "descripcion": "Una invasión extraterrestre comienza con un extraño fenómeno: el cielo se vuelve rojo antes de cada ataque.",
-    "imagen": "https://example.com/amanecer_carmesi.jpg",
+    "name": "Amanecer Carmesí",
+    "description": "Una invasión extraterrestre comienza con un extraño fenómeno: el cielo se vuelve rojo antes de cada ataque.",
+    "image": "https://example.com/amanecer_carmesi.jpg",
     "rate": 7.9,
-    "año_estreno": 2022
+    "year": 2022
   },
   {
     "id": 15,
-    "nombre": "Redención Final",
-    "descripcion": "Un exconvicto tiene 48 horas para probar su inocencia antes de que lo capturen nuevamente.",
-    "imagen": "https://example.com/redencion_final.jpg",
+    "name": "Redención Final",
+    "description": "Un exconvicto tiene 48 horas para probar su inocencia antes de que lo capturen nuevamente.",
+    "image": "https://example.com/redencion_final.jpg",
     "rate": 8.2,
-    "año_estreno": 2021
+    "year": 2021
   },
   {
     "id": 16,
-    "nombre": "Ciudad Sin Ley",
-    "descripcion": "En una ciudad sin reglas, un expolicía busca justicia por su familia.",
-    "imagen": "https://example.com/ciudad_sin_ley.jpg",
+    "name": "Ciudad Sin Ley",
+    "description": "En una ciudad sin reglas, un expolicía busca justicia por su familia.",
+    "image": "https://example.com/ciudad_sin_ley.jpg",
     "rate": 6.5,
-    "año_estreno": 2021
+    "year": 2021
   },
   {
     "id": 17,
-    "nombre": "Silencio Mortal",
-    "descripcion": "Una epidemia borra la capacidad del habla y sumerge al mundo en el caos.",
-    "imagen": "https://example.com/silencio_mortal.jpg",
+    "name": "Silencio Mortal",
+    "description": "Una epidemia borra la capacidad del habla y sumerge al mundo en el caos.",
+    "image": "https://example.com/silencio_mortal.jpg",
     "rate": 7.2,
-    "año_estreno": 2022
+    "year": 2022
   },
   {
     "id": 18,
-    "nombre": "Las Horas Perdidas",
-    "descripcion": "Un hombre despierta sin memoria y con un reloj que cuenta hacia atrás.",
-    "imagen": "https://example.com/las_horas_perdidas.jpg",
+    "name": "Las Horas Perdidas",
+    "description": "Un hombre despierta sin memoria y con un reloj que cuenta hacia atrás.",
+    "image": "https://example.com/las_horas_perdidas.jpg",
     "rate": 7.9,
-    "año_estreno": 2023
+    "year": 2023
   },
   {
     "id": 19,
-    "nombre": "Espejos Rotos",
-    "descripcion": "Cada reflejo que ve una joven muestra una versión diferente de sí misma.",
-    "imagen": "https://example.com/espejos_rotos.jpg",
+    "name": "Espejos Rotos",
+    "description": "Cada reflejo que ve una joven muestra una versión diferente de sí misma.",
+    "image": "https://example.com/espejos_rotos.jpg",
     "rate": 8.6,
-    "año_estreno": 2024
+    "year": 2024
   },
   {
     "id": 20,
-    "nombre": "Niebla Carmesí",
-    "descripcion": "Un gas tóxico cubre la ciudad, dejando solo a los más resistentes vivos.",
-    "imagen": "https://example.com/niebla_carmesí.jpg",
+    "name": "Niebla Carmesí",
+    "description": "Un gas tóxico cubre la ciudad, dejando solo a los más resistentes vivos.",
+    "image": "https://example.com/niebla_carmesí.jpg",
     "rate": 6.5,
-    "año_estreno": 2005
+    "year": 2005
   },
   {
     "id": 21,
-    "nombre": "Destino Fracturado",
-    "descripcion": "Un viajero en el tiempo intenta salvar a su familia, pero cada intento altera la realidad.",
-    "imagen": "https://example.com/destino_fracturado.jpg",
+    "name": "Destino Fracturado",
+    "description": "Un viajero en el tiempo intenta salvar a su familia, pero cada intento altera la realidad.",
+    "image": "https://example.com/destino_fracturado.jpg",
     "rate": 7.2,
-    "año_estreno": 2006
+    "year": 2006
   },
   {
     "id": 22,
-    "nombre": "Bajo Tierra",
-    "descripcion": "Unos exploradores quedan atrapados en una cueva con un secreto oculto por siglos.",
-    "imagen": "https://example.com/bajo_tierra.jpg",
+    "name": "Bajo Tierra",
+    "description": "Unos exploradores quedan atrapados en una cueva con un secreto oculto por siglos.",
+    "image": "https://example.com/bajo_tierra.jpg",
     "rate": 7.9,
-    "año_estreno": 2007
+    "year": 2007
   },
   {
     "id": 23,
-    "nombre": "El Último Mensaje",
-    "descripcion": "Un periodista encuentra una grabación que predice eventos catastróficos.",
-    "imagen": "https://example.com/el_último_mensaje.jpg",
+    "name": "El Último Mensaje",
+    "description": "Un periodista encuentra una grabación que predice eventos catastróficos.",
+    "image": "https://example.com/el_último_mensaje.jpg",
     "rate": 8.6,
-    "año_estreno": 2008
+    "year": 2008
   },
   {
     "id": 24,
-    "nombre": "Juego de Sombras",
-    "descripcion": "Un asesino juega con la policía dejando sombras como únicas pistas.",
-    "imagen": "https://example.com/juego_de_sombras.jpg",
+    "name": "Juego de Sombras",
+    "description": "Un asesino juega con la policía dejando sombras como únicas pistas.",
+    "image": "https://example.com/juego_de_sombras.jpg",
     "rate": 6.5,
-    "año_estreno": 2009
+    "year": 2009
   },
   {
     "id": 25,
-    "nombre": "La Marca del Caído",
-    "descripcion": "Un ángel caído busca redención mientras es perseguido por demonios.",
-    "imagen": "https://example.com/la_marca_del_caído.jpg",
+    "name": "La Marca del Caído",
+    "description": "Un ángel caído busca redención mientras es perseguido por demonios.",
+    "image": "https://example.com/la_marca_del_caído.jpg",
     "rate": 7.2,
-    "año_estreno": 2010
+    "year": 2010
   }
 ]
